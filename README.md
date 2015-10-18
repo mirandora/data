@@ -1,2 +1,2 @@
 # data
-demo data for mirandora.com or etc
+demo data for [mirandora.com](http://www.mirandora.com) or etc.
